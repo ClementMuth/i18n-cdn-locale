@@ -1,1 +1,1 @@
-# next-i18next-backend-loadpath
+# i18n-cdn-locale
